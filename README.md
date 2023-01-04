@@ -2,8 +2,8 @@
 
 Aplicação para controle de estacinamento em condominio. 
 
-Java 8 
-SpringBoot
+Java 8,
+SpringBoot,
 Mysql
 
 
